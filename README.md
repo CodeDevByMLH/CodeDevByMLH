@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @CodeDevByMLH
+- 👋 Hi, I’m @CodeDevMLH
 - 🌱 I’m currently working on an automated garden watering system
 
 
